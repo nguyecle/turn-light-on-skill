@@ -8,7 +8,7 @@ This skill allow mycroft to turn on the light
 * "Can you turn the light on ?"
 * "Turn the light on"
 * "Switch the light on"
-* "Can you switch de light on"
+* "Can you switch the light on"
 * "Can you turn on the light ?"
 * "Turn on the light"
 
